@@ -1,0 +1,9 @@
+C:\Users\ishikawashota\Desktop\Works\Altseed\Mini1game\Mini1game\bin\Debug\Mini1game.exe.config
+C:\Users\ishikawashota\Desktop\Works\Altseed\Mini1game\Mini1game\bin\Debug\Altseed.dll
+C:\Users\ishikawashota\Desktop\Works\Altseed\Mini1game\Mini1game\bin\Debug\Altseed_core.dll
+C:\Users\ishikawashota\Desktop\Works\Altseed\Mini1game\Mini1game\bin\Debug\Mini1game.exe
+C:\Users\ishikawashota\Desktop\Works\Altseed\Mini1game\Mini1game\bin\Debug\Mini1game.pdb
+C:\Users\ishikawashota\Desktop\Works\Altseed\Mini1game\Mini1game\bin\Debug\Altseed.xml
+C:\Users\ishikawashota\Desktop\Works\Altseed\Mini1game\Mini1game\obj\Debug\Mini1game.csprojResolveAssemblyReference.cache
+C:\Users\ishikawashota\Desktop\Works\Altseed\Mini1game\Mini1game\obj\Debug\Mini1game.exe
+C:\Users\ishikawashota\Desktop\Works\Altseed\Mini1game\Mini1game\obj\Debug\Mini1game.pdb
